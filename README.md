@@ -1,3 +1,7 @@
+This quiz app was created with React and Typescript. The styling was done using styled components. I followed along with the tutorial on freecodecamp.org.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

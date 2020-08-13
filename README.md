@@ -1,5 +1,6 @@
 This quiz app was created with React and Typescript. The styling was done using styled components. I followed along with the tutorial on freecodecamp.org.
 
+<img src="./images/screenshot.png" alt="React Quiz Game Screen Shot">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
